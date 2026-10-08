@@ -1,0 +1,9 @@
+{
+    "packageName":  "com.jobsense.feasibility",
+    "versionCode":  4,
+    "versionName":  "0.4.0-github-updates",
+    "releaseNotes":  "Use the default LifeTracker update feed and securely download the published GitHub release.",
+    "apkUrl":  "https://github.com/pjjr1019/LifeTracker/releases/download/v4/lifetracker-ai-4.apk",
+    "sha256":  "4825046b8d4b1a663db1b6ee367616286763eb3a1580b47addbdb97905703807",
+    "sizeBytes":  83815268
+}
