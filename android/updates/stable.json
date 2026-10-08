@@ -1,9 +1,9 @@
 {
   "packageName": "com.jobsense.feasibility",
-  "versionCode": 5,
-  "versionName": "0.5.0-color-themes",
-  "releaseNotes": "Choose Teal, Green, Yellow, Orange, Red, Blue, Purple or Pink in Settings → Appearance → Choose color. Your color is remembered and works with light, dark or phone-following appearance. Saved messages and sharing choices stay in place.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v5/lifetracker-ai-5.apk",
-  "sha256": "d4f47db951582362d0a481dab7e6987e7df9889eedd3bd81d29fc896b63111d4",
-  "sizeBytes": 82722016
+  "versionCode": 6,
+  "versionName": "0.6.0-aurora",
+  "releaseNotes": "Meet Aurora: the new default animated LifeTracker theme, with a custom logo, matching app icon, and a polished startup splash. Gentle motion pauses in the background and respects disabled Android animations. Choose any of the eight other colors in Settings → Appearance → Choose color. Saved messages and sharing settings stay in place.",
+  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v6/lifetracker-ai-6.apk",
+  "sha256": "f8441fd4601006164a4b90903830d737018974426bbb2cb3e48095d937ea1992",
+  "sizeBytes": 83317694
 }
