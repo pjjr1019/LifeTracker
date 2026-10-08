@@ -1,9 +1,9 @@
 {
   "packageName": "com.jobsense.feasibility",
-  "versionCode": 8,
-  "versionName": "0.7.1-search-contrast",
-  "releaseNotes": "Clearer offline answers with dated message evidence. Automatic clock-in/out reports and paired elapsed time under Assistant → Work; unclear times remain reviewable estimates. Live keyword search shows newest messages first and highlights matches in results, opened messages, and chat-history search. Work-status chat choices stay separate from Drive sharing. Existing histories and settings stay in place.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v8/lifetracker-ai-8.apk",
-  "sha256": "5238f491be918cb8cd320be1275ccb717b52a0490e0524cea3efdf17e38bc1a8",
-  "sizeBytes": 82874626
+  "versionCode": 9,
+  "versionName": "0.8.0-personal-memory",
+  "releaseNotes": "New Assistant → Memory: automatically organized tasks, appointments, equipment mentions, changed plans and work reports with dated sources. Review or dismiss suggestions locally; uncertain details remain unverified. Ask what you need to do today or about upcoming appointments. Saving and Drive sharing stay unchanged. Clearer offline answers with dated message evidence. Automatic clock-in/out reports and paired elapsed time under Assistant → Work; unclear times remain reviewable estimates. Live keyword search shows newest messages first and highlights matches in results, opened messages, and chat-history search. Work-status chat choices stay separate from Drive sharing. Existing histories and settings stay in place.",
+  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v9/lifetracker-ai-9.apk",
+  "sha256": "dd963509e60e71619ccbdd66d112eb96f017664f94c070b8c6b7f8eecf94b095",
+  "sizeBytes": 82923770
 }
