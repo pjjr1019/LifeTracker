@@ -1,9 +1,9 @@
 {
   "packageName": "com.jobsense.feasibility",
-  "versionCode": 9,
-  "versionName": "0.8.0-personal-memory",
-  "releaseNotes": "New Assistant → Memory: automatically organized tasks, appointments, equipment mentions, changed plans and work reports with dated sources. Review or dismiss suggestions locally; uncertain details remain unverified. Ask what you need to do today or about upcoming appointments. Saving and Drive sharing stay unchanged. Clearer offline answers with dated message evidence. Automatic clock-in/out reports and paired elapsed time under Assistant → Work; unclear times remain reviewable estimates. Live keyword search shows newest messages first and highlights matches in results, opened messages, and chat-history search. Work-status chat choices stay separate from Drive sharing. Existing histories and settings stay in place.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v9/lifetracker-ai-9.apk",
-  "sha256": "dd963509e60e71619ccbdd66d112eb96f017664f94c070b8c6b7f8eecf94b095",
-  "sizeBytes": 82923770
+  "versionCode": 10,
+  "versionName": "0.9.0-answer-history",
+  "releaseNotes": "Reviewed reminders and clearer sourced local answers. New private answer history with feedback and optional separate Drive review sharing. Swipe tasks right to delete with Undo; original messages stay saved. Today shows the past three days. Dark-mode readability corrected. Native models remain subject to phone qualification. Emulator tested; phone delivery and live Drive retrieval require device checks. Android approval is required.",
+  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v10/lifetracker-ai-10.apk",
+  "sha256": "5c8456076abb81ad8ad169e82e856dbb6e5ef69c032fdc784669cd149682998a",
+  "sizeBytes": 86751135
 }
