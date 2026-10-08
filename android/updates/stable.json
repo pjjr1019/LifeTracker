@@ -1,9 +1,9 @@
 {
   "packageName": "com.jobsense.feasibility",
-  "versionCode": 7,
-  "versionName": "0.7.0-message-time",
+  "versionCode": 8,
+  "versionName": "0.7.1-search-contrast",
   "releaseNotes": "Clearer offline answers with dated message evidence. Automatic clock-in/out reports and paired elapsed time under Assistant → Work; unclear times remain reviewable estimates. Live keyword search shows newest messages first and highlights matches in results, opened messages, and chat-history search. Work-status chat choices stay separate from Drive sharing. Existing histories and settings stay in place.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v7/lifetracker-ai-7.apk",
-  "sha256": "6ee99f6e41ed864d636409b960599ca57dd51854697e5dac4832f6eab82ce781",
-  "sizeBytes": 84164046
+  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v8/lifetracker-ai-8.apk",
+  "sha256": "5238f491be918cb8cd320be1275ccb717b52a0490e0524cea3efdf17e38bc1a8",
+  "sizeBytes": 82874626
 }
