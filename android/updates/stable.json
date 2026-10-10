@@ -1,9 +1,9 @@
 {
   "packageName": "com.jobsense.feasibility",
-  "versionCode": 12,
-  "versionName": "0.9.2-ai-chats",
-  "releaseNotes": "Assistant now opens a messenger-style AI chat inbox. Start separate sessions, reopen and continue conversations, or archive, restore and delete entire AI chats. Includes date-scoped hours and safer live-information answers. Existing messages and selections are preserved. Build/lint, 67 unit checks and 14 focused emulator checks passed. Android installation approval is required. Known reminder-association limitation remains under review.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v12/lifetracker-ai-12.apk",
-  "sha256": "01d57be5bcb44e87514cc0b6294ccf1459fc5f82d25f95f77c09e818dc02418a",
-  "sizeBytes": 87148903
+  "versionCode": 27,
+  "versionName": "0.12.6-messaging",
+  "releaseNotes": "Messaging and synchronization fixes: notification navigation and explicit replies, actual unread state, MMS status handling, encrypted sync and reliable upload revisions. Existing data, permissions, sharing and signing identity are preserved. 80 Android unit tests, 31 emulator checks and 88 service tests passed. Real carrier/MMS and Samsung background checks remain pending. Google Messages stays default. Android installation approval is required.",
+  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v27/lifetracker-ai-27.apk",
+  "sha256": "74f9bb12f6335f5838460cb345a3c2e037a9592e71cfae3f534c95f2d55d0795",
+  "sizeBytes": 88859485
 }
