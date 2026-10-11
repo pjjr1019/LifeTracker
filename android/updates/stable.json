@@ -1,9 +1,9 @@
 {
-  "packageName": "com.jobsense.feasibility",
-  "versionCode": 27,
-  "versionName": "0.12.6-messaging",
-  "releaseNotes": "Messaging and synchronization fixes: notification navigation and explicit replies, actual unread state, MMS status handling, encrypted sync and reliable upload revisions. Existing data, permissions, sharing and signing identity are preserved. 80 Android unit tests, 31 emulator checks and 88 service tests passed. Real carrier/MMS and Samsung background checks remain pending. Google Messages stays default. Android installation approval is required.",
-  "apkUrl": "https://github.com/pjjr1019/LifeTracker/releases/download/v27/lifetracker-ai-27.apk",
-  "sha256": "74f9bb12f6335f5838460cb345a3c2e037a9592e71cfae3f534c95f2d55d0795",
-  "sizeBytes": 88859485
+    "packageName":  "com.jobsense.feasibility",
+    "versionCode":  28,
+    "versionName":  "0.12.7-message-recovery",
+    "releaseNotes":  "Message recovery fixes: individual SMS statuses, stale/multipart callbacks, safe explicit retry and draft preservation, keyboard spacing, and separate local archive/Drive recovery. Existing histories, permissions and sharing preserved. 82 unit tests and 29 emulator checks passed. Samsung/carrier checks remain pending. Android approval required.",
+    "apkUrl":  "https://github.com/pjjr1019/LifeTracker/releases/download/v28/lifetracker-ai-28.apk",
+    "sha256":  "5d0c8470f687c05a091b6424bcceac0dfd3bf9e8746ae27b6bb3b54759ee01c8",
+    "sizeBytes":  88942841
 }
